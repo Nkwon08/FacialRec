@@ -4,4 +4,6 @@ Small face processing/training project. Contains code in `main.py`, plus `data/`
 
 To connect this repo to GitHub, follow steps in CONTRIBUTING.md or use the included automation script.
 
-Remote: PLACEHOLDER - will be updated when the GitHub repo is created.
+Remote: https://github.com/Nkwon08/FacialRec.git
+
+Clone URL: git@github.com:Nkwon08/FacialRec.git (SSH) or https://github.com/Nkwon08/FacialRec.git (HTTPS)
